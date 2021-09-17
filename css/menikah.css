@@ -39,7 +39,7 @@ html {
 
 .hero {
   background-image: url(https://picsum.photos/id/25/1920/1080);
-  background: linear-gradient(rgba(175,159,134,0.65), rgba(175,159,134,0.655)), rgba(0, 0, 0, 0.55) url("https://picsum.photos/id/381/1920/1080") no-repeat;
+  background: linear-gradient(rgba(175,159,134,0.65), rgba(175,159,134,0.655)), rgba(0,0,0,0.55) url("https://picsum.photos/id/381/1920/1080") no-repeat;
   background-attachment: fixed;
   background-size: cover;
   color: white;
@@ -440,7 +440,7 @@ body.preloader-site {
 .preloader-wrapper {
   height: 100%;
   width: 100%;
-  background: #D8A9A8;
+  background: #AF9F86;
   position: fixed;
   top: 0;
   left: 0;
@@ -553,7 +553,7 @@ body.preloader-site {
 {color:ghostwhite}
 
 
-.dusty-pink {color: #D8A9A8}
+.dusty-pink {color: #AF9F86}
 .dusty-pink-lighter {color: #EDD2D1}
 .dusty-pink-lightest {color: #F4E2E2}
 .dusty-pink-darker {color: #BC8887}
