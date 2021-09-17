@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Lato|Raleway|Rouge+Script");
+@import url("https://fonts.googleapis.com/css?family=Lato|Raleway|Rouge+Script|Belleza");
 .has-vertically-aligned-content {
   display: flex;
   flex-direction: column;
@@ -10,7 +10,7 @@
 }
 
 html {
-  font-family: 'Raleway', Tahoma, sans-serif;
+  font-family: 'Belleza', Tahoma, sans-serif;
   width: 100%;
   min-height: 100%;
 }
