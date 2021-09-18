@@ -390,6 +390,11 @@ vertical-align: middle;
   vertical-align: middle;
 }
 
+.ayat-alkitab {
+  margin: 10px;
+  font-weight: 500;
+}
+
 #toTop {
   height: 50px;
   width: 50px;
