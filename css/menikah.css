@@ -132,7 +132,7 @@ html {
 }
 
 .main-content .section-dark {
-  background-color: #F4E2E2;
+  background-color: #D4CCAC;
   padding: 80px 40px;
 }
 
@@ -425,7 +425,7 @@ vertical-align: middle;
 
 ::-webkit-scrollbar {
   width: 8px;
-  background-color: #F4E2E2;
+  background-color: #D4CCAC;
 }
 
 ::-webkit-scrollbar-thumb {
@@ -556,7 +556,7 @@ body.preloader-site {
 
 .dusty-pink {color: #AF9F86}
 .dusty-pink-lighter {color: #EDD2D1}
-.dusty-pink-lightest {color: #F4E2E2}
+.dusty-pink-lightest {color: #D4CCAC}
 .dusty-pink-darker {color: #BC8887}
 .dusty-pink-darkest {color: #444340}
 
