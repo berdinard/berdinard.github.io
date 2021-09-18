@@ -132,7 +132,7 @@ html {
 }
 
 .main-content .section-dark {
-  background-color: #D4CCAC;
+  background-color: #D0C3AF;
   padding: 80px 40px;
 }
 
@@ -418,7 +418,7 @@ vertical-align: middle;
 
 ::-webkit-scrollbar {
   width: 8px;
-  background-color: #D4CCAC;
+  background-color: #D0C3AF;
 }
 
 ::-webkit-scrollbar-thumb {
@@ -434,7 +434,7 @@ body.preloader-site {
 .preloader-wrapper {
   height: 100%;
   width: 100%;
-  background: #D4CCAC;
+  background: #D0C3AF;
   position: fixed;
   top: 0;
   left: 0;
@@ -549,7 +549,7 @@ body.preloader-site {
 
 .dusty-pink {color: #AF9F86}
 .dusty-pink-lighter {color: #f2ecd7}
-.dusty-pink-lightest {color: #D4CCAC}
+.dusty-pink-lightest {color: #D0C3AF}
 .dusty-pink-darker {color: #BC8887}
 .dusty-pink-darkest {color: #444340}
 
