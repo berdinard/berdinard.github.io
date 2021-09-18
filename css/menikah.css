@@ -29,11 +29,11 @@ html {
 }
 
 .navbar-item.is-active{
-  border-bottom: 2px solid #996E6D;
+  border-bottom: 2px solid #444340;
 }
 
 .a.navbar-item{
-  font-color: #996E6D;
+  font-color: #444340;
 }
 
 
@@ -102,15 +102,15 @@ html {
 }
 
 .hero .hero-foot .hero-foot--wrapper .hero-menu-desktop ul li.is-active a {
-  border-bottom: 2px solid #996E6D;
+  border-bottom: 2px solid #444340;
 }
 
 .hero .hero-foot .hero-foot--wrapper .hero-menu-desktop ul li a {
-  color: #996E6D;
+  color: #444340;
 }
 
 .hero .hero-foot .hero-foot--wrapper .hero-menu-desktop ul li a:hover {
-  color: #996E6D;
+  color: #444340;
   transition: all .2s ease-in-out;
   border-bottom: 2px solid #c28285;
 }
@@ -157,9 +157,9 @@ html {
 }
 
 .main-content .section-dark.resume button {
-  border: 2px solid #996E6D;
+  border: 2px solid #444340;
   background: white;
-  color: #996E6D;
+  color: #444340;
   height: 50px;
   width: 250px;
   font-size: 1rem;
@@ -167,7 +167,7 @@ html {
 }
 
 .main-content .section-dark.resume .fa-download {
-  color: #996E6D;
+  color: #444340;
 }
 
 .main-content .section-dark.my-work {
@@ -273,7 +273,7 @@ html {
 
 .main-content .section-color.pertanyaan {
   padding: 100px;
-  background-color: #996E6D;
+  background-color: #444340;
   color: white;
 }
 
@@ -290,7 +290,7 @@ html {
 .main-content .section-title {
   font-family: 'Belleza', sans-serif;
   font-weight: 900;
-  color: #996E6D;
+  color: #444340;
   text-transform: uppercase;
   font-size: 1.5rem;
   letter-spacing: 0px;
@@ -299,7 +299,7 @@ html {
 
 .nama-lengkap {
   font-family: 'Rouge Script', sans-serif;
-  color: #996E6D;
+  color: #444340;
   font-size: 3.5rem;
   letter-spacing: 0px;
   padding-bottom: 6px;
@@ -309,7 +309,7 @@ html {
 .ampersand {
 font-size: 5rem;
 font-family: 'Rouge Script', sans-serif;
-color: #996E6D;
+color: #444340;
 line-height: 5rem;
 display: inline-block;
 vertical-align: middle;
@@ -406,7 +406,7 @@ vertical-align: middle;
   z-index: 99;
   border: none;
   outline: none;
-  background-color: #996E6D;
+  background-color: #444340;
   color: white;
   cursor: pointer;
   border-radius: 50%;
@@ -428,8 +428,8 @@ vertical-align: middle;
 }
 
 ::-webkit-scrollbar-thumb {
-  box-shadow: inset 0 0 6px #996E6D;
-  -webkit-box-shadow: inset 0 0 6px #996E6D;
+  box-shadow: inset 0 0 6px #444340;
+  -webkit-box-shadow: inset 0 0 6px #444340;
   background-color: #BC8887;
 }
 
@@ -500,12 +500,12 @@ body.preloader-site {
 }
 
 .btn-cta {
-  background-color: #996E6D;
+  background-color: #444340;
   width:  210px;
   height: 65px;
   color: white;
   font-size: 1.2rem;
-  border: 2px solid #996E6D;
+  border: 2px solid #444340;
   border-radius: 10px;
   align-items: center;
   margin: 1rem;
@@ -557,7 +557,7 @@ body.preloader-site {
 .dusty-pink-lighter {color: #EDD2D1}
 .dusty-pink-lightest {color: #F4E2E2}
 .dusty-pink-darker {color: #BC8887}
-.dusty-pink-darkest {color: #996E6D}
+.dusty-pink-darkest {color: #444340}
 
 .tile {
   border-radius: 10px;
@@ -643,7 +643,7 @@ body.preloader-site {
 }
 
 .instagram {
-  color: #996E6D;
+  color: #444340;
   font-size: 1.25rem;
   font-weight: 900;
   margin-top: 0.5rem;
