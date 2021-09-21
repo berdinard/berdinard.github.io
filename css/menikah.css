@@ -138,12 +138,12 @@ html {
 
 .main-content .section-darker {
   background-color: #AB9B83;
-  padding: 40px 30px;
+  padding: 60px 30px;
 }
 
 .main-content .section-dark.resume {
   height: 400px;
-  padding-top: 40px;
+  padding-top: 60px;
 
 }
 
@@ -208,7 +208,7 @@ html {
 }
 
 .main-content .section-light {
-  padding: 40px 30px;
+  padding: 60px 30px;
 }
 
 .main-content .section-light.regular-section {
