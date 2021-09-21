@@ -75,6 +75,10 @@ html {
   box-shadow: 0 2px 15px rgba(0, 0, 0, 0.082);
 }
 
+.hero-foot {
+	padding: 2px 12px !important;
+}
+
 @media (max-width: 599px) {
   .hero .hero-foot {
     display: none;
