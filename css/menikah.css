@@ -17,7 +17,7 @@ html {
 }
 
 .header-wrapper {
-  padding-bottom: 30px;
+  padding-bottom: 0px;
 }
 
 .navbar-item {
@@ -126,7 +126,7 @@ html {
 }
 
 .main-content {
-  padding-top: 3rem;
+  padding-top: 4rem;
   color: #000; 
   font-family: 'Belleza', sans-serif;
 }
