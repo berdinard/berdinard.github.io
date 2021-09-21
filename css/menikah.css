@@ -69,12 +69,14 @@ html {
   
 }
 
-.hero-foot {
-	height: 30px;
+@media screen and (min-width: 1024px) {
+  .navbar {
+    min-height: 2rem !important;
+  }
 }
 
 .hero .hero-foot {
-  height: 30px;
+  height: 50px;
   /* background: white; */
   box-shadow: 0 2px 15px rgba(0, 0, 0, 0.082);
 }
@@ -87,7 +89,7 @@ html {
 
 .hero .hero-foot .hero-foot--wrapper {
   margin: 7px auto;
-  height: 30px;
+  height: 50px;
 }
 
 .hero .hero-foot .hero-foot--wrapper .hero-menu-desktop {
