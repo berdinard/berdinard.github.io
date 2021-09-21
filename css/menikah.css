@@ -75,10 +75,6 @@ html {
   box-shadow: 0 2px 15px rgba(0, 0, 0, 0.082);
 }
 
-.hero-foot {
-	padding: 2px 12px !important;
-}
-
 @media (max-width: 599px) {
   .hero .hero-foot {
     display: none;
@@ -96,7 +92,7 @@ html {
   text-transform: ;
   letter-spacing: 1px;
   font-size: 0.8rem;
-  padding: 2px 12px;
+  padding: 2px 12px !important;
 }
 
 .hero .hero-foot .hero-foot--wrapper .hero-menu-desktop ul li {
