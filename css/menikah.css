@@ -48,7 +48,9 @@ html {
   font-family: 'Belleza', sans-serif;
 }
 
-
+.hero-body {
+	padding-top: 10rem;
+}	
 
 .hero .title {
   font-family: 'Rouge Script', sans-serif;
