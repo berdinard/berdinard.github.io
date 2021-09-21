@@ -125,19 +125,19 @@ html {
 }
 
 .main-content {
-  padding-top: 4rem;
+  padding-top: 5rem;
   color: #000; 
   font-family: 'Belleza', sans-serif;
 }
 
 .main-content .section-dark {
   background-color: #CFC2AF;
-  padding: 40px 30px;
+  padding: 80px 30px;
 }
 
 .main-content .section-darker {
   background-color: #AB9B83;
-  padding: 60px 30px;
+  padding: 80px 30px;
 }
 
 .main-content .section-dark.resume {
@@ -207,7 +207,7 @@ html {
 }
 
 .main-content .section-light {
-  padding: 60px 30px;
+  padding: 80px 30px;
 }
 
 .main-content .section-light.regular-section {
