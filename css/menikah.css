@@ -71,7 +71,7 @@ html {
 
 .hero .hero-foot {
   height: 50px;
-  background: white;
+  /* background: white; */
   box-shadow: 0 2px 15px rgba(0, 0, 0, 0.082);
 }
 
@@ -91,7 +91,8 @@ html {
   font-weight: 600;
   text-transform: ;
   letter-spacing: 1px;
-  font-size: 1rem;
+  font-size: 0.8rem;
+  padding: 2px 12px;
 }
 
 .hero .hero-foot .hero-foot--wrapper .hero-menu-desktop ul li {
