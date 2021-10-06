@@ -635,8 +635,8 @@ body.preloader-site {
 }
 
 .section-light {
-  background-image: url(../image/divider-flowers-leaves.png);
-  background-position: bottom -35px center;
+  background-image: url(../image/divider-flowers-leaves_bottom.png), url(../image/divider-flowers-leaves_top.png);
+  background-position: bottom -35px center, top -35px center;
   background-repeat: no-repeat;
   background-size: initial;
 }
