@@ -120,6 +120,11 @@ html {
   border-bottom: 2px solid #407B92;
 }
 
+@media screen and (min-width: 769px) {
+  .hero.is-medium .hero-body {
+    padding-top: 8rem !important;
+  }
+}
 
 .space40px{
   height: 40px;
