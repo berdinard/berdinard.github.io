@@ -120,10 +120,6 @@ html {
   border-bottom: 2px solid #407B92;
 }
 
-.hero-body {
-	
-}
-
 .space40px{
   height: 40px;
 }
@@ -304,21 +300,6 @@ html {
   padding-bottom: 30px;
 }
 
-@media (max-width: 599px) {
-  .nama-lengkap {
-    font-size: 2.5rem;
-    letter-spacing: 0px;
-    padding-bottom: 6px;
-    line-height: 3rem;
-  }
-
-  .ampersand {
-    font-size: 2rem;
-    line-height: 5rem;
-    display: inline-block;
-    vertical-align: middle;
-  }
-}
 
 .nama-lengkap {
   font-family: 'Euphoria Script', sans-serif;
