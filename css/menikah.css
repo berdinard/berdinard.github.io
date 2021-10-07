@@ -422,7 +422,7 @@ vertical-align: middle;
 
 ::-webkit-scrollbar {
   width: 8px;
-  background-color: #CFC2AF;
+  background-color: #BED9E4;
 }
 
 ::-webkit-scrollbar-thumb {
@@ -438,7 +438,7 @@ body.preloader-site {
 .preloader-wrapper {
   height: 100%;
   width: 100%;
-  background: #CFC2AF;
+  background: #BED9E4;
   position: fixed;
   top: 0;
   left: 0;
@@ -553,7 +553,7 @@ body.preloader-site {
 
 .dusty-pink {color: #AF9F86}
 .dusty-pink-lighter {color: #7DB9D8}
-.dusty-pink-lightest {color: #CFC2AF}
+.dusty-pink-lightest {color: #BED9E4}
 .dusty-pink-darker {color: #BC8887}
 .dusty-pink-darkest {color: #444340}
 
