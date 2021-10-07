@@ -120,10 +120,8 @@ html {
   border-bottom: 2px solid #407B92;
 }
 
-@media screen and (min-width: 769px) {
-  .hero.is-medium .hero-body {
-    padding-top: 8rem !important;
-  }
+.hero-body {
+	
 }
 
 .space40px{
@@ -304,6 +302,22 @@ html {
   font-size: 1.5rem;
   letter-spacing: 0px;
   padding-bottom: 30px;
+}
+
+@media (max-width: 599px) {
+	.nama-lengkap {
+	  font-size: 2.5rem;
+	  letter-spacing: 0px;
+	  padding-bottom: 6px;
+	  line-height: 3rem;
+	}
+
+	.ampersand {
+	  font-size: 2rem;
+	  line-height: 5rem;
+	  display: inline-block;
+	  vertical-align: middle;
+	}
 }
 
 .nama-lengkap {
