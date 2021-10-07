@@ -339,18 +339,19 @@ vertical-align: middle;
   font-size: 5.3rem;
   font-family: 'Josefin Sans', sans-serif;
   font-weight: 900;
-  line-height: 0.8;
+  line-height: 1;
 }
 
 .tanggal-bulan {
   text-transform: uppercase;
   font-size: 2rem;
   font-family: 'Josefin Sans', sans-serif;
+  line-height: 1;
 }
 
 .tanggal-tahun {
   text-transform: uppercase;
-  font-size: 1.5rem;
+  font-size: 1.6rem;
   font-weight: 900;
   font-family: 'Josefin Sans', sans-serif;
 }
