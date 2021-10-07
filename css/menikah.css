@@ -487,10 +487,10 @@ body.preloader-site {
 
 .btn-cta:hover {
   color:white;
-  background-color: #bf7877;
+  background-color: #84bbd8;
   font-size: 1.2rem;
   border-radius: 10px;
-  border: 2px solid #bf7877;
+  border: 2px solid #84bbd8;
   width:  210px;
   height: 65px;
   align-items: center;
@@ -498,12 +498,12 @@ body.preloader-site {
 }
 
 .btn-cta {
-  background-color: #444340;
+  background-color: #647C7C;
   width:  210px;
   height: 65px;
   color: white;
   font-size: 1.2rem;
-  border: 2px solid #444340;
+  border: 2px solid #647C7C;
   border-radius: 10px;
   align-items: center;
   margin: 1rem;
