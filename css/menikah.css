@@ -118,7 +118,7 @@ html {
 .hero .hero-foot .hero-foot--wrapper .hero-menu-desktop ul li a:hover {
   color: #444340;
   transition: all .2s ease-in-out;
-  border-bottom: 2px solid #AB9B83;
+  border-bottom: 2px solid #407B92;
 }
 
 
@@ -141,7 +141,7 @@ html {
 }
 
 .main-content .section-darker {
-  background-color: #AB9B83;
+  background-color: #407B92;
   padding: 80px 30px;
 }
 
@@ -355,7 +355,7 @@ vertical-align: middle;
   line-height: 25px;
   text-align: center;
   vertical-align: middle;
-  background: #AB9B83;
+  background: #407B92;
   color: whitesmoke;    
 }
 
@@ -552,7 +552,7 @@ body.preloader-site {
 
 
 .dusty-pink {color: #AF9F86}
-.dusty-pink-lighter {color: #AB9B83}
+.dusty-pink-lighter {color: #407B92}
 .dusty-pink-lightest {color: #CFC2AF}
 .dusty-pink-darker {color: #BC8887}
 .dusty-pink-darkest {color: #444340}
