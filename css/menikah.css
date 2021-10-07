@@ -137,12 +137,12 @@ html {
 
 .main-content .section-dark {
   background-color: #ACC0CD;
-  padding: 80px 30px;
+  padding: 60px 30px;
 }
 
 .main-content .section-darker {
   background-color: #5787A2;
-  padding: 80px 30px;
+  padding: 60px 30px;
 }
 
 .main-content .section-dark.resume {
@@ -329,14 +329,19 @@ vertical-align: middle;
   font-family: 'EB Garamond', sans-serif;
 }
 
+.container.waktu-box {
+	padding-bottom: 50px;
+}
+
 .tanggal-hari {
 	text-transform: uppercase;
-	font-size: 2rem;
+	font-size: 1.8rem;
 	font-family: 'Josefin Sans', sans-serif;
+	line-height: 1;
 }
 
 .tanggal-angka {
-  font-size: 5.3rem;
+  font-size: 5rem;
   font-family: 'Josefin Sans', sans-serif;
   font-weight: 900;
   line-height: 1;
@@ -344,14 +349,14 @@ vertical-align: middle;
 
 .tanggal-bulan {
   text-transform: uppercase;
-  font-size: 2rem;
+  font-size: 1.4rem;
   font-family: 'Josefin Sans', sans-serif;
-  line-height: 1;
+  line-height: 0.8;
 }
 
 .tanggal-tahun {
   text-transform: uppercase;
-  font-size: 1.6rem;
+  font-size: 1.4rem;
   font-weight: 900;
   font-family: 'Josefin Sans', sans-serif;
 }
