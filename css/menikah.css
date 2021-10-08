@@ -63,9 +63,16 @@ html {
   }
 }
 
+@media screen and (min-width: 769px) {
+.hero.is-medium .hero-body {
+    padding-bottom: 9rem;
+    padding-top: 6rem;
+}
+}
+
 .hero .title {
   font-family: 'Birthstone Bounce', sans-serif;
-  font-weight: 700;
+  font-weight: 500;
   transform: rotate(-2deg);
   font-size: 5rem;
   padding-bottom: 5px;
@@ -75,13 +82,14 @@ html {
 .hero .subtitle {
   padding: 35px;
   color: whitesmoke;
-  font-size: 1.3rem;
+  font-size: 1.4rem;
+  text-transform: uppercase;
 }
 
 .hero .tempatwaktu {
   padding-top: 35px;
   font-size: 1.3rem;
-  
+  text-transform: none;
 }
 
 @media screen and (min-width: 1024px) {
