@@ -300,7 +300,6 @@ html {
   padding-bottom: 30px;
 }
 
-
 .nama-lengkap {
   font-family: 'Birthstone Bounce', sans-serif;
   color: #335c64;
@@ -317,6 +316,11 @@ html {
   line-height: 5rem;
   display: inline-block;
   vertical-align: middle;
+}
+@media (max-width: 599px) {
+  .nama-lengkap {
+    font-size: 2.4rem;
+  }
 }
 
 .bodytext {
