@@ -38,9 +38,9 @@ html {
 
 
 .hero {
-  background: linear-gradient(rgba(107,110,125,0.65), rgba(107,110,125,0.655)), rgba(0,0,0,0.55) url("../image/JV1A9899.jpg") no-repeat;
+  background: linear-gradient(rgba(107,110,125,0.65), rgba(107,110,125,0.655)), rgba(0,0,0,0.55) url("../image/JV1A9899.jpg") center no-repeat;
   background-attachment: fixed;
-  background-size: cover;
+  background-size: flex;
   color: white;
   box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
   font-family: 'EB Garamond', sans-serif;
