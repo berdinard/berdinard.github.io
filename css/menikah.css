@@ -64,10 +64,9 @@ html {
 }
 
 @media screen and (min-width: 769px) {
-.hero.is-medium .hero-body {
-    padding-bottom: 9rem;
-    padding-top: 6rem;
-}
+  .hero.is-medium .hero-body {
+    padding-top: 6rem !important;
+  }
 }
 
 .hero .title {
@@ -478,7 +477,7 @@ html {
 }
 
 ::-webkit-scrollbar {
-  width: 10px;
+  width: 8px;
   background-color: #BED9E4;
 }
 
