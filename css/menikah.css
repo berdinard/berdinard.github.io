@@ -162,8 +162,9 @@ html {
 }
 
 .main-content .section-darker {
-  background-color: #5787A2;
+  background-color: #354674;
   padding: 60px 30px;
+  color: #fff;
 }
 
 .main-content .section-dark.resume {
