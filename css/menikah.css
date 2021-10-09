@@ -614,58 +614,58 @@ body.preloader-site {
 .dusty-pink-darkest {color: #444340}
 
 .tile {
-  border-radius: 0px;
+  border-radius: 8px;
 }
 
 
 .foto1 {
-  background-image: url("../image/sherly-daeng-kang-emil.jpg");
+  background-image: url("../image/JV1A98469.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
-  min-height: 24rem;
+  min-height: 20rem;
 }
 
 
 .foto2 {
-  background-image: url("../image/sherly-daeng-cashbac.jpg");
+  background-image: url("../image/JV1A99866.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
-  min-height: 24rem;
+  min-height: 20rem;
 }
 
 .foto3 {
-  background-image: url("../image/sherly-daeng-selfie.jpg");
+  background-image: url("../image/JV1A9987.jpg");
   background-size: cover;
   background-position: top;
   background-repeat:no-repeat;
-  min-height: 24rem;
+  min-height: 20rem;
 }
 
 .foto4 {
-  background-image: url("../image/sherly-daeng-lamaran.jpg");
+  background-image: url("../image/JV1A00749.jpg");
   background-size: cover;
   background-position: top;
   background-repeat:no-repeat;
-  min-height: 24rem;
+  min-height: 20rem;
 }
 
 .foto5 {
-  background-image: url("../image/sherly-daeng-red-car.jpg");
+  background-image: url("../image/JV1A98929.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
-  min-height: 24rem;
+  min-height: 20rem;
 }
 
 
 .foto6 {
-  background-image: url("../image/sherly-daeng-engagement-ami.jpg");
+  background-image: url("../image/JV1A01319.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
-  min-height: 24rem;
+  min-height: 20rem;
 }
 
 
