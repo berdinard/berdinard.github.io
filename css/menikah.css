@@ -66,7 +66,7 @@ html {
 
 @media screen and (min-width: 769px) {
   .hero.is-medium .hero-body {
-    padding-top: 6rem !important;
+    padding-top: 3rem !important;
   }
 }
 
@@ -299,8 +299,12 @@ html {
   }
 }
 
-.scroll-down-more .fa-chevron-double-down {
-  font-size: 1.8rem;
+.scroll-down-more {
+  padding: 0 30px;
+}
+
+.fa-chevron-double-down {
+  font-size: 1.5rem;
   color: #C6F700;
 }
 
