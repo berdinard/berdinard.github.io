@@ -13,7 +13,8 @@ html {
   font-family: 'EB Garamond', Tahoma, sans-serif;
   width: 100%;
   min-height: 100%;
-  background-color: #F7F7F8;
+  background: #F7F7F8;
+  
 }
 
 .header-wrapper {
@@ -296,6 +297,15 @@ html {
   .main-content .section-light.contact {
     padding: 80px 40px;
   }
+}
+
+.scroll-down-more .fa-chevron-double-down {
+	font-size: 1.8rem;
+	color: #C6F700;
+}
+
+.fa-chevron-double-down:hover {
+	color: #0095DF;
 }
 
 .main-content .section-color.pertanyaan {
@@ -692,7 +702,7 @@ body.preloader-site {
 
 .section-light {
   background-image: url(../image/divider-flowers-leaves_bottom.png), url(../image/divider-flowers-leaves_top.png);
-  background-position: bottom -35px center, top -3.8rem center;
+  background-position: bottom -35px center, top -3.5rem center;
   background-repeat: no-repeat;
   background-size: initial;
 }
