@@ -300,12 +300,12 @@ html {
 }
 
 .scroll-down-more .fa-chevron-double-down {
-	font-size: 1.8rem;
-	color: #C6F700;
+  font-size: 1.8rem;
+  color: #C6F700;
 }
 
-.fa-chevron-double-down:hover {
-	color: #0095DF;
+.fa-chevron-double-down:hover, .fa-chevron-double-down:visited, .fa-chevron-double-down:active {
+  color: #0095DF;
 }
 
 .main-content .section-color.pertanyaan {
