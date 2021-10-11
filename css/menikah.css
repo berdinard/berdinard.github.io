@@ -710,7 +710,21 @@ body.preloader-site {
   min-height: 20rem;
 }
 
+.foto7 {
+  background-image: url("../image/JV1A98929.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat:no-repeat;
+  min-height: 20rem;
+}
 
+.foto8 {
+  background-image: url("../image/JV1A99239.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat:no-repeat;
+  min-height: 20rem;
+}
 
 .title-foto {
   font-size: 18pt;
