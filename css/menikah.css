@@ -529,7 +529,7 @@ body.preloader-site {
 .preloader-wrapper {
   height: 100%;
   width: 100%;
-  background: #BED9E4;
+  background: #354674;
   position: fixed;
   top: 0;
   left: 0;
@@ -542,7 +542,7 @@ body.preloader-site {
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-  width: 120px;
+  width: 80px;
 }
 
 
