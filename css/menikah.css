@@ -157,16 +157,29 @@ html {
   font-family: 'EB Garamond', sans-serif;
 }
 
+.ayat-alkitab {
+    font-style: italic;
+}
+
 .main-content .section-dark {
-  background-color: #ACC0CD;
+  background-color: #A7AABC;
   padding: 60px 30px;
 }
 
+.main-content .section-dark .contact h1 {
+  color: #2f2862;
+}
+
 .main-content .section-darker {
-  background-color: #354674;
+  background-color: #737687;
   padding: 60px 30px;
   color: #fff;
 }
+
+.main-content .section-darker strong, .main-content .section-darker h1 {
+  color: #fff;
+}
+
 
 .main-content .section-dark.resume {
   height: 400px;
@@ -200,11 +213,6 @@ html {
 
 .main-content .section-dark.my-work {
   padding: 80px 40px;
-}
-
-.main-content .section-cashbac {
-  background-color: rgb(238, 250, 253);
-  padding: 80px 40px; 
 }
 
 @media (max-width: 599px) {
@@ -313,7 +321,7 @@ html {
   color: #C6F700;
 }
 
-.fa-chevron-double-down:hover, .fa-chevron-double-down:visited, .fa-chevron-double-down:active {
+.fa-chevron-double-down:hover {
   color: #0095DF;
 }
 
@@ -338,7 +346,7 @@ html {
   font-weight: 900;
   color: #444340;
   text-transform: uppercase;
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   letter-spacing: 0px;
   padding-bottom: 30px;
 }
@@ -376,19 +384,25 @@ html {
 }
 
 .waktu {
-  font-size: 1.6rem;
+  font-size: 1.4rem;
   font-family: 'EB Garamond', sans-serif;
+  color: #2f2862;
+}
+
+.waktu strong {
+  color: #2f2862;
 }
 
 .container.waktu-box {
-  padding: 30px 0 50px 0;
+  padding-bottom: 30px;
+  color: #2f2862;
 }
 
 .tanggal-hari {
   text-transform: uppercase;
-  font-size: 1.8rem;
+  font-size: 1.6rem;
   font-family: 'Josefin Sans', sans-serif;
-  line-height: 1;
+  line-height: 1.2;
 }
 
 .tanggal-angka {
@@ -396,18 +410,19 @@ html {
   font-family: 'Josefin Sans', sans-serif;
   font-weight: 900;
   line-height: 1;
+  color: #385861;
 }
 
 .tanggal-bulan {
   text-transform: uppercase;
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   font-family: 'Josefin Sans', sans-serif;
   line-height: 0.8;
 }
 
 .tanggal-tahun {
   text-transform: uppercase;
-  font-size: 1.4rem;
+  font-size: 1.2srem;
   font-weight: 900;
   font-family: 'Josefin Sans', sans-serif;
 }
@@ -431,7 +446,7 @@ html {
   line-height: 25px;
   text-align: center;
   vertical-align: middle;
-  background: #407B92;
+  background: #354674;
   color: whitesmoke;    
 }
 
@@ -562,24 +577,18 @@ body.preloader-site {
 
 
 .btn-cta:hover {
-  color:white;
-  background-color: #407B92;
-  font-size: 1.2rem;
-  border-radius: 10px;
-  border: 2px solid #407B92;
-  width:  210px;
-  height: 65px;
-  align-items: center;
-  margin: 1rem;
+  color: white;
+  background-color: #47598c;
+  border: 2px solid #47598c;
 }
 
 .btn-cta {
-  background-color: #647C7C;
+  background-color: #354674;
   width:  210px;
   height: 65px;
   color: white;
   font-size: 1.2rem;
-  border: 2px solid #647C7C;
+  border: 2px solid #354674;
   border-radius: 10px;
   align-items: center;
   margin: 1rem;
@@ -587,31 +596,20 @@ body.preloader-site {
 
 .btn-cta-small:hover {
   color:white;
-  background-color: #407B92;
-  font-size: 1rem;
-  border-radius: 8px;
-  border: 2px solid #407B92;
-  width: 130px;
-  height: 30px;
-  align-items: center;
-  margin: 1rem;
+  background-color: #47598c;
+  border: 2px solid #47598c;
 }
 
 .btn-cta-small {
-  background-color: #647C7C;
+  background-color: #354674;
   width: 130px;
   height: 30px;
   color: white;
   font-size: 1rem;
-  border: 2px solid #647C7C;
+  border: 2px solid #354674;
   border-radius: 8px;
   align-items: center;
   margin: 1rem;
-}
-
-.cashbac-logo-inline {
-  width: 160px;
-  vertical-align: middle;
 }
 
 .button-download {
@@ -696,7 +694,7 @@ body.preloader-site {
 }
 
 .foto5 {
-  background-image: url("../image/JV1A98929.jpg");
+  background-image: url("../image/JV1A00135.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -705,7 +703,7 @@ body.preloader-site {
 
 
 .foto6 {
-  background-image: url("../image/JV1A01319.jpg");
+  background-image: url("../image/JV1A01456.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
