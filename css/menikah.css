@@ -39,7 +39,7 @@ html {
 
 
 .hero {
-  background: linear-gradient(rgba(138,143,161,0.65), rgba(138,143,161,0.655)), rgba(0,0,0,0.55) url("../image/JV1A98993.jpg") no-repeat;
+  background: linear-gradient(rgba(33,55,109,0.75), rgba(33,55,109,0.75)), rgba(0,0,0,0.55) url("../image/JV1A98993.jpg") no-repeat;
   background-attachment: fixed;
   background-size: cover;
   color: white;
@@ -49,7 +49,7 @@ html {
 
 @media (max-width: 599px) and (orientation: portrait) {
   .hero {
-    background: linear-gradient(rgba(138,143,161,0.65), rgba(138,143,161,0.655)), rgba(0,0,0,0.55) url("../image/JV1A98993.jpg") center no-repeat;
+    background: linear-gradient(rgba(33,55,109,0.75), rgba(33,55,109,0.75)), rgba(0,0,0,0.55) url("../image/JV1A98993.jpg") center no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
   }
@@ -162,7 +162,7 @@ html {
 }
 
 .main-content .section-dark {
-  background-color: #A7AABC;
+  background-color: #B6C6F0;
   padding: 60px 30px;
 }
 
@@ -171,7 +171,7 @@ html {
 }
 
 .main-content .section-darker {
-  background-color: #737687;
+  background-color: #869FDD;
   padding: 60px 30px;
   color: #fff;
 }
@@ -446,7 +446,7 @@ html {
   line-height: 25px;
   text-align: center;
   vertical-align: middle;
-  background: #354674;
+  background: #21376D ;
   color: whitesmoke;    
 }
 
@@ -529,7 +529,7 @@ body.preloader-site {
 .preloader-wrapper {
   height: 100%;
   width: 100%;
-  background: #354674;
+  background: #21376D ;
   position: fixed;
   top: 0;
   left: 0;
@@ -578,17 +578,17 @@ body.preloader-site {
 
 .btn-cta:hover {
   color: white;
-  background-color: #47598c;
-  border: 2px solid #47598c;
+  background-color: #27499D;
+  border: 2px solid #27499D;
 }
 
 .btn-cta {
-  background-color: #354674;
+  background-color: #31416A;
   width:  210px;
   height: 65px;
   color: white;
   font-size: 1.2rem;
-  border: 2px solid #354674;
+  border: 2px solid #31416A;
   border-radius: 10px;
   align-items: center;
   margin: 1rem;
@@ -596,17 +596,17 @@ body.preloader-site {
 
 .btn-cta-small:hover {
   color:white;
-  background-color: #47598c;
-  border: 2px solid #47598c;
+  background-color: #27499D;
+  border: 2px solid #27499D;
 }
 
 .btn-cta-small {
-  background-color: #354674;
+  background-color: #31416A;
   width: 130px;
   height: 30px;
   color: white;
   font-size: 1rem;
-  border: 2px solid #354674;
+  border: 2px solid #31416A;
   border-radius: 8px;
   align-items: center;
   margin: 1rem;
