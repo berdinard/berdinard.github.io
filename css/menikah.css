@@ -57,7 +57,7 @@ html {
 
 @media (min-width: 768px)  and (orientation: portrait) {
   .hero {
-    background: linear-gradient(rgba(138,143,161,0.65), rgba(138,143,161,0.655)), rgba(0,0,0,0.55) url("../image/JV1A98993.jpg") top no-repeat;
+    background: linear-gradient(rgba(33,55,109,0.75), rgba(33,55,109,0.655)), rgba(0,0,0,0.55) url("../image/JV1A98993.jpg") top no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
 	background-size: auto 70%;
@@ -164,10 +164,15 @@ html {
 .main-content .section-dark {
   background-color: #B6C6F0;
   padding: 60px 30px;
+  color: #385861;
+}
+
+.main-content .section-dark strong, .main-content .section-dark h1 {
+  color: #385861;
 }
 
 .main-content .section-dark .contact h1 {
-  color: #2f2862;
+  color: #385861;
 }
 
 .main-content .section-darker {
@@ -180,6 +185,9 @@ html {
   color: #fff;
 }
 
+.covid-prokes {
+  font-size: 1.2rem;
+}
 
 .main-content .section-dark.resume {
   height: 400px;
@@ -386,16 +394,16 @@ html {
 .waktu {
   font-size: 1.4rem;
   font-family: 'EB Garamond', sans-serif;
-  color: #2f2862;
+  color: #385861;
 }
 
 .waktu strong {
-  color: #2f2862;
+  color: #385861;
 }
 
 .container.waktu-box {
   padding-bottom: 30px;
-  color: #2f2862;
+  color: #385861;
 }
 
 .tanggal-hari {
